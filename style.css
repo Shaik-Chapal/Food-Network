@@ -76,3 +76,18 @@ h2{
  .box-container h3{
     text-align: center;
 }
+
+footer{
+    background-color: black;
+    height: 250px;
+    padding-top: 10px;
+}
+
+footer h2{
+    color: grey;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
